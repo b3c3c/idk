@@ -1,5 +1,5 @@
 <white-domain>https://b3c3c.github.io/vino_test_web/
 <gold-domain>https://b3c3c.github.io/vino_test_web/
 <white-title-ID>1407581310497290
-<top-page>http://imsus.gay/vinew/index.html
+<top-page>https://b3c3c.github.io/vino_test_web/
 <white-acr>a
